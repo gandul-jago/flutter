@@ -1,0 +1,8 @@
+# Ignore Flutter/Android build files and dependencies
+/build/
+.dart_tool/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.iml
